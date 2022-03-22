@@ -8,8 +8,8 @@ public class gugudan3 {
 		int b=1;
 		for (int i=0; i<8; i++)
 		{
-			b=b+1;
 			System.out.println(a+"*"+b+"="+a*b);
+			b=b+1;
 		}
 	}
 
