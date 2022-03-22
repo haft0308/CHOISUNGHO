@@ -7,13 +7,13 @@ public class gugudan {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc =new Scanner(System.in);
-		System.out.println("±¸±¸´ÜÀ» ÀÔ·ÂÇÏ½Ã¿ä");
+		System.out.println("Â±Â¸Â±Â¸Â´ÃœÃ€Â» Ã€Ã”Â·Ã‚Ã‡ÃÂ½ÃƒÂ¿Ã¤");
 		int a =sc.nextInt();
 		int b=1;
 		for(int i=0; i<8; i++)
 		{
-			b=b+1;
 			System.out.println(a+"*"+b+"="+a*b);
+			b=b+1;
 		}
 	}
 
