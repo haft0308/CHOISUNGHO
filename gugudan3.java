@@ -6,7 +6,7 @@ public class gugudan3 {
 		// TODO Auto-generated method stub
 		int a =3;
 		int b=1;
-		for (int i=0; i<8; i++)
+		for (int i=0; i<9; i++)
 		{
 			System.out.println(a+"*"+b+"="+a*b);
 			b=b+1;
